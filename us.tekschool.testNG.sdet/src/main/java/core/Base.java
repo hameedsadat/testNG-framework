@@ -54,6 +54,7 @@ public class Base {
 	public static String getBrowserName() {
 		String browserName = properties.getProperty("browserName");
 		return browserName;
+		
 	}
 
 	// get url method

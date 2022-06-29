@@ -14,9 +14,7 @@ public class HotelLoginPageObj extends Base {
 		PageFactory.initElements(driver, this);
 	}
 
-	// 5 minutes to store below WebElements in private WebElement using @FindBy
-	// annotations.
-	// find WebElement of Sign in
+	
 	@FindBy(how = How.XPATH, using = "//span[@class='hide_xs']")
 	private WebElement signIn;
 	// find WebElement of email field

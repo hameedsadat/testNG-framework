@@ -378,3 +378,33 @@
 2020-07-12 15:54:50,260 - Logger_file -INFO - This Title is from IE Execution: Hotel
 2020-07-12 15:54:54,426 - Logger_file -INFO - This Title is from Chrome Execution: Hotel
 2020-07-12 15:54:54,428 - Logger_file -INFO - This Title is from Firefox Execution: Hotel
+2020-08-02 12:35:53,177 - Logger_file -INFO - Browser opened successfully
+2020-08-02 12:35:54,249 - Logger_file -INFO - user clicked on Sign in
+2020-08-02 12:35:54,541 - Logger_file -INFO - user entered email address
+2020-08-02 12:35:54,722 - Logger_file -INFO - user entered password
+2020-08-02 12:35:55,539 - Logger_file -INFO - user clicked on sign in button
+2020-09-12 22:48:14,315 - Logger_file -INFO - Browser opened successfully
+2020-09-12 22:48:15,001 - Logger_file -INFO - user clicked on Sign in
+2020-09-12 22:48:15,140 - Logger_file -INFO - user entered email address
+2020-09-12 22:48:15,263 - Logger_file -INFO - user entered password
+2020-09-12 22:48:15,942 - Logger_file -INFO - user clicked on sign in button
+2020-09-12 22:48:22,366 - Logger_file -INFO - Browser closed
+2020-10-15 17:44:16,245 - Logger_file -INFO - Browser opened successfully
+2020-10-15 17:44:17,151 - Logger_file -INFO - user clicked on Sign in
+2020-10-15 17:44:17,321 - Logger_file -INFO - user entered email address
+2020-10-15 17:44:17,512 - Logger_file -INFO - user entered password
+2020-10-15 17:44:18,397 - Logger_file -INFO - user clicked on sign in button
+2020-10-15 17:44:24,656 - Logger_file -INFO - Browser closed
+2020-10-15 17:44:32,957 - Logger_file -INFO - Browser opened successfully
+2020-10-15 17:44:33,822 - Logger_file -INFO - user clicked on Sign in
+2020-10-15 17:44:33,998 - Logger_file -INFO - user entered email address from Parameters
+2020-10-15 17:44:34,195 - Logger_file -INFO - user entered password from Parameters
+2020-10-15 17:44:34,355 - Logger_file -INFO - user clicked on sign in button
+2020-10-15 17:44:40,573 - Logger_file -INFO - Browser closed
+2021-01-15 15:20:58,545 - Logger_file -INFO - Browser opened successfully
+2021-01-15 15:21:00,692 - Logger_file -INFO - user clicked on Sign in
+2021-01-15 15:21:00,863 - Logger_file -INFO - user entered email address
+2021-01-15 15:21:01,041 - Logger_file -INFO - user entered password
+2021-01-15 15:21:03,573 - Logger_file -INFO - user clicked on sign in button
+2021-01-15 15:21:09,918 - Logger_file -INFO - Browser closed
+2021-01-15 15:21:21,849 - Logger_file -INFO - Browser opened successfully

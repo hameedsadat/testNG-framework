@@ -20,17 +20,22 @@ public class HotelLogin extends Base {
 
 	}
 
-	@Test(enabled = false) // TestNG will skip this test case
+	@Test 
 	public void loginToHotelPage() {
 		hotelpageObj = new HotelLoginPageObj();
+		
 		hotelpageObj.clickonSignIn();
 		logger.info("user clicked on Sign in");
+		
 		hotelpageObj.enterEmail(getUserName());
 		logger.info("user entered email address");
+		
 		hotelpageObj.enterPassword(getPassword());
 		logger.info("user entered password");
+		
 		hotelpageObj.clickonSignInButton();
 		logger.info("user clicked on sign in button");
+		
 		DriverUtility.wait(5000);
 		DriverUtility.screenShot();
 
