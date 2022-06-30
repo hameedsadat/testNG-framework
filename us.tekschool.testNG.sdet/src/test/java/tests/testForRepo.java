@@ -6,8 +6,8 @@ public class testForRepo {
 		// TODO Auto-generated method stub
 // It is coming from remote testNG repo just created
 		
+		// please copy this for testNG test repohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 		
-		// it is not accepted by dev team, let's work on it again . it is the second try.dddddxxxxxxxxxxxxxxxxxxxxxxxxxxxxlllllllllllll
 	}
 
 }
